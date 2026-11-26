@@ -1,0 +1,110 @@
+[
+  {
+    "pergunta": "Como criar conta?",
+    "tema": null,
+    "esperado": "G01",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Esqueci minha senha",
+    "tema": null,
+    "esperado": "G02",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Quero conta ouro",
+    "tema": null,
+    "esperado": "G03",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Ativar duas etapas",
+    "tema": null,
+    "esperado": "G04",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Preciso de suporte",
+    "tema": null,
+    "esperado": "G05",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Qual o numero da CIN?",
+    "tema": null,
+    "esperado": "C01",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "A CIN é gratis?",
+    "tema": null,
+    "esperado": "C02",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Onde tirar identidade?",
+    "tema": null,
+    "esperado": "C03",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Levar certidao de casamento",
+    "tema": null,
+    "esperado": "C04",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Existe CIN digital?",
+    "tema": null,
+    "esperado": "C05",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Quero cadastrar uma conta",
+    "tema": "Conta gov.br",
+    "esperado": "G01",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "A CIN tem custo em papel?",
+    "tema": "Identidade CIN",
+    "esperado": "C02",
+    "status": "sugestoes"
+  },
+  {
+    "pergunta": "Qual a previsão do tempo?",
+    "tema": null,
+    "esperado": null,
+    "status": "sem_resposta"
+  },
+  {
+    "pergunta": "",
+    "tema": null,
+    "esperado": null,
+    "status": "invalida"
+  },
+  {
+    "pergunta": "Ajuda",
+    "tema": "Tema inexistente",
+    "esperado": null,
+    "status": "tema_invalido"
+  },
+  {
+    "pergunta": "Emitir identidade",
+    "tema": "Conta gov.br",
+    "esperado": null,
+    "status": "sem_resposta"
+  },
+  {
+    "pergunta": "Quero uma identidade no celular",
+    "tema": null,
+    "esperado": "C05",
+    "status": "encontrada"
+  },
+  {
+    "pergunta": "Perdi minha credencial de acesso",
+    "tema": null,
+    "esperado": "G02",
+    "status": "encontrada"
+  }
+]

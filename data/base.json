@@ -1,0 +1,193 @@
+[
+  {
+    "codigo": "G01",
+    "tema": "Conta gov.br",
+    "subassunto": "Criação",
+    "pergunta": "Como criar uma conta gov.br?",
+    "palavras_chave": [
+      "criar",
+      "cadastro",
+      "cadastrar",
+      "abrir conta"
+    ],
+    "orientacao": "Use o canal oficial gov.br e siga a opção de criação de conta. Não faça cadastro neste protótipo.",
+    "passos": [
+      "Abra o portal oficial da conta gov.br.",
+      "Siga a orientação de criação de conta no canal oficial."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "data_verificacao": "2026-11-25"
+  },
+  {
+    "codigo": "G02",
+    "tema": "Conta gov.br",
+    "subassunto": "Recuperação",
+    "pergunta": "Como recuperar a senha da conta?",
+    "palavras_chave": [
+      "senha",
+      "recuperar",
+      "esqueci"
+    ],
+    "orientacao": "No acesso oficial, escolha a recuperação de senha e siga um dos métodos disponíveis para sua conta.",
+    "passos": [
+      "Acesse o login oficial e escolha Esqueci minha senha.",
+      "Siga o método de recuperação oferecido; se não conseguir, consulte o formulário de atendimento indicado na fonte."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/",
+    "data_verificacao": "2026-11-25"
+  },
+  {
+    "codigo": "G03",
+    "tema": "Conta gov.br",
+    "subassunto": "Níveis",
+    "pergunta": "Onde consultar os níveis da conta?",
+    "palavras_chave": [
+      "nivel",
+      "niveis",
+      "prata",
+      "ouro",
+      "bronze"
+    ],
+    "orientacao": "O portal oficial explica os níveis e os métodos de validação. Consulte as opções disponíveis para sua conta.",
+    "passos": [
+      "Abra a página oficial da conta gov.br.",
+      "Consulte Níveis da conta e os métodos de validação apresentados."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "data_verificacao": "2026-11-25"
+  },
+  {
+    "codigo": "G04",
+    "tema": "Conta gov.br",
+    "subassunto": "Segurança",
+    "pergunta": "Como ativar a verificação em duas etapas?",
+    "palavras_chave": [
+      "duas etapas",
+      "seguranca",
+      "2fa",
+      "codigo de acesso"
+    ],
+    "orientacao": "No aplicativo gov.br, acesse Segurança da conta. A verificação em duas etapas está disponível para contas prata e ouro.",
+    "passos": [
+      "Com uma conta prata ou ouro, abra Segurança da conta no aplicativo gov.br e ative a verificação em duas etapas.",
+      "O código é gerado pelo aplicativo gov.br, não por SMS."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta",
+    "data_verificacao": "2026-11-26"
+  },
+  {
+    "codigo": "G05",
+    "tema": "Conta gov.br",
+    "subassunto": "Atendimento",
+    "pergunta": "Onde obter ajuda com a conta?",
+    "palavras_chave": [
+      "ajuda",
+      "atendimento",
+      "suporte",
+      "duvida na conta"
+    ],
+    "orientacao": "Use a seção Ajuda da conta gov.br no portal oficial. Este protótipo não acessa nem recupera contas.",
+    "passos": [
+      "Abra o portal oficial da conta gov.br.",
+      "Entre em Ajuda da conta e selecione a situação que corresponde à sua dificuldade."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "data_verificacao": "2026-11-25"
+  },
+  {
+    "codigo": "C01",
+    "tema": "Identidade CIN",
+    "subassunto": "Número único",
+    "pergunta": "Qual é o número da CIN?",
+    "palavras_chave": [
+      "numero",
+      "cpf",
+      "identificador"
+    ],
+    "orientacao": "A CIN usa o CPF como número único de identificação.",
+    "passos": [
+      "Consulte a explicação oficial sobre o número único.",
+      "Não digite seu CPF neste protótipo."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin",
+    "data_verificacao": "2026-11-25"
+  },
+  {
+    "codigo": "C02",
+    "tema": "Identidade CIN",
+    "subassunto": "Custo",
+    "pergunta": "A primeira CIN em papel é gratuita?",
+    "palavras_chave": [
+      "gratuita",
+      "gratis",
+      "custo",
+      "pagar",
+      "primeira via"
+    ],
+    "orientacao": "A primeira emissão em papel é gratuita. Outras modalidades e vias devem ser conferidas no órgão emissor.",
+    "passos": [
+      "Confirme que a solicitação é da primeira emissão em papel.",
+      "Verifique no órgão emissor as condições de outras vias ou formatos."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar",
+    "data_verificacao": "2026-11-25"
+  },
+  {
+    "codigo": "C03",
+    "tema": "Identidade CIN",
+    "subassunto": "Emissão",
+    "pergunta": "Onde emitir a CIN?",
+    "palavras_chave": [
+      "emitir",
+      "emissao",
+      "agendar",
+      "onde tirar"
+    ],
+    "orientacao": "A emissão é feita pelos órgãos de identificação civil dos estados e do Distrito Federal. Consulte o atendimento do seu estado.",
+    "passos": [
+      "Abra a fonte oficial sobre a CIN.",
+      "Procure a indicação de onde emitir no seu estado e confirme o agendamento local."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/",
+    "data_verificacao": "2026-11-25"
+  },
+  {
+    "codigo": "C04",
+    "tema": "Identidade CIN",
+    "subassunto": "Documentos",
+    "pergunta": "Que certidão levar para emitir a CIN?",
+    "palavras_chave": [
+      "certidao",
+      "documentos",
+      "nascimento",
+      "casamento"
+    ],
+    "orientacao": "A orientação federal cita certidão de nascimento ou casamento atualizada. Confira os requisitos operacionais do órgão emissor.",
+    "passos": [
+      "Separe a certidão de nascimento ou casamento atualizada.",
+      "Confirme os documentos e as condições de atendimento no órgão de identificação do seu estado."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/",
+    "data_verificacao": "2026-11-25"
+  },
+  {
+    "codigo": "C05",
+    "tema": "Identidade CIN",
+    "subassunto": "Formatos",
+    "pergunta": "A CIN tem versão digital?",
+    "palavras_chave": [
+      "digital",
+      "papel",
+      "plastico",
+      "policarbonato",
+      "formatos"
+    ],
+    "orientacao": "A CIN tem versão física e correspondente digital no aplicativo gov.br. Alguns estados oferecem cartão de policarbonato.",
+    "passos": [
+      "Consulte as opções do órgão emissor.",
+      "Após a emissão, consulte a versão digital no aplicativo gov.br."
+    ],
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/",
+    "data_verificacao": "2026-11-25"
+  }
+]

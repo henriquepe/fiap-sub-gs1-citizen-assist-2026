@@ -1,0 +1,19 @@
+test_arquivos_invalidos (test_sistema.SistemaTest.test_arquivos_invalidos) ... ok
+test_atualizacao_sem_alterar_codigo (test_sistema.SistemaTest.test_atualizacao_sem_alterar_codigo) ... ok
+test_base (test_sistema.SistemaTest.test_base) ... ok
+test_comandos_interativos (test_sistema.SistemaTest.test_comandos_interativos) ... ok
+test_empate_estavel (test_sistema.SistemaTest.test_empate_estavel) ... ok
+test_filtro (test_sistema.SistemaTest.test_filtro) ... ok
+test_modelos (test_sistema.SistemaTest.test_modelos) ... ok
+test_normalizacao (test_sistema.SistemaTest.test_normalizacao) ... ok
+test_palavra_inteira (test_sistema.SistemaTest.test_palavra_inteira) ... ok
+test_privacidade (test_sistema.SistemaTest.test_privacidade) ... ok
+test_ranking (test_sistema.SistemaTest.test_ranking) ... ok
+test_sem_resposta (test_sistema.SistemaTest.test_sem_resposta) ... ok
+test_tema_invalido (test_sistema.SistemaTest.test_tema_invalido) ... ok
+test_vazia (test_sistema.SistemaTest.test_vazia) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.156s
+
+OK

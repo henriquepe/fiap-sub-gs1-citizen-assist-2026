@@ -1,0 +1,26 @@
+[
+  {
+    "tarefa": "Consulta curta",
+    "entrada": "1\nsenha\n1\n1\n0\n",
+    "saida": "CITIZEN ASSIST AI | Henrique Pires Espindola | RM 568600\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.\nComandos em qualquer etapa: /menu para voltar; /sair para encerrar.\n\nMENU: 1. Conta gov.br | 2. Identidade CIN | 3. Buscar em todos | 0. Sair\nOpção: Subassuntos: Criação, Recuperação, Níveis, Segurança, Atendimento\nDúvida (sem dados pessoais): Confira se o assunto sugerido corresponde à sua dúvida.\n1. Como recuperar a senha da conta? (1 palavra(s)-chave)\nEscolha uma sugestão ou /menu: Formato: 1. Curto | 2. Passo a passo | /menu: [G02] Como recuperar a senha da conta?\nNo acesso oficial, escolha a recuperação de senha e siga um dos métodos disponíveis para sua conta.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.\n\nMENU: 1. Conta gov.br | 2. Identidade CIN | 3. Buscar em todos | 0. Sair\nOpção: Consulta encerrada.\n",
+    "exit_code": 0,
+    "sucesso": true,
+    "tipo": "Roteiro automatizado; não representa teste humano."
+  },
+  {
+    "tarefa": "Ambiguidade e passos",
+    "entrada": "2\nCIN papel custo\n1\n2\n0\n",
+    "saida": "CITIZEN ASSIST AI | Henrique Pires Espindola | RM 568600\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.\nComandos em qualquer etapa: /menu para voltar; /sair para encerrar.\n\nMENU: 1. Conta gov.br | 2. Identidade CIN | 3. Buscar em todos | 0. Sair\nOpção: Subassuntos: Número único, Custo, Emissão, Documentos, Formatos\nDúvida (sem dados pessoais): Confira se o assunto sugerido corresponde à sua dúvida.\n1. A primeira CIN em papel é gratuita? (1 palavra(s)-chave)\n2. A CIN tem versão digital? (1 palavra(s)-chave)\nEscolha uma sugestão ou /menu: Formato: 1. Curto | 2. Passo a passo | /menu: [C02] A primeira CIN em papel é gratuita?\n1. Confirme que a solicitação é da primeira emissão em papel.\n2. Verifique no órgão emissor as condições de outras vias ou formatos.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.\n\nMENU: 1. Conta gov.br | 2. Identidade CIN | 3. Buscar em todos | 0. Sair\nOpção: Consulta encerrada.\n",
+    "exit_code": 0,
+    "sucesso": true,
+    "tipo": "Roteiro automatizado; não representa teste humano."
+  },
+  {
+    "tarefa": "Erros e recuperação",
+    "entrada": "9\n3\n\n3\nqual a previsão do tempo\n0\n",
+    "saida": "CITIZEN ASSIST AI | Henrique Pires Espindola | RM 568600\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.\nComandos em qualquer etapa: /menu para voltar; /sair para encerrar.\n\nMENU: 1. Conta gov.br | 2. Identidade CIN | 3. Buscar em todos | 0. Sair\nOpção: Opção inválida. Escolha 1, 2, 3 ou 0.\n\nMENU: 1. Conta gov.br | 2. Identidade CIN | 3. Buscar em todos | 0. Sair\nOpção: Dúvida (sem dados pessoais): Digite uma consulta não vazia.\n\nMENU: 1. Conta gov.br | 2. Identidade CIN | 3. Buscar em todos | 0. Sair\nOpção: Dúvida (sem dados pessoais): A base não contém resposta suficiente para essa consulta. Consulte o canal oficial.\n\nMENU: 1. Conta gov.br | 2. Identidade CIN | 3. Buscar em todos | 0. Sair\nOpção: Consulta encerrada.\n",
+    "exit_code": 0,
+    "sucesso": true,
+    "tipo": "Roteiro automatizado; não representa teste humano."
+  }
+]

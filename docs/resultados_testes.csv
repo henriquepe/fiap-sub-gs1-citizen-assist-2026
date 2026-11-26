@@ -1,0 +1,149 @@
+pergunta,tema,esperado,resposta_esperada,status_esperado,obtido,status_obtido,sugestoes,acerto,tempo_ms,resposta_exibida
+Como criar conta?,,G01,"[G01] Como criar uma conta gov.br?
+1. Abra o portal oficial da conta gov.br.
+2. Siga a orientação de criação de conta no canal oficial.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,G01,encontrada,['G01'],True,0.137458,"[G01] Como criar uma conta gov.br?
+1. Abra o portal oficial da conta gov.br.
+2. Siga a orientação de criação de conta no canal oficial.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Esqueci minha senha,,G02,"[G02] Como recuperar a senha da conta?
+1. Acesse o login oficial e escolha Esqueci minha senha.
+2. Siga o método de recuperação oferecido; se não conseguir, consulte o formulário de atendimento indicado na fonte.
+Fonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,G02,encontrada,['G02'],True,0.04475,"[G02] Como recuperar a senha da conta?
+1. Acesse o login oficial e escolha Esqueci minha senha.
+2. Siga o método de recuperação oferecido; se não conseguir, consulte o formulário de atendimento indicado na fonte.
+Fonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Quero conta ouro,,G03,"[G03] Onde consultar os níveis da conta?
+1. Abra a página oficial da conta gov.br.
+2. Consulte Níveis da conta e os métodos de validação apresentados.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,G03,encontrada,['G03'],True,0.0405,"[G03] Onde consultar os níveis da conta?
+1. Abra a página oficial da conta gov.br.
+2. Consulte Níveis da conta e os métodos de validação apresentados.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Ativar duas etapas,,G04,"[G04] Como ativar a verificação em duas etapas?
+1. Com uma conta prata ou ouro, abra Segurança da conta no aplicativo gov.br e ative a verificação em duas etapas.
+2. O código é gerado pelo aplicativo gov.br, não por SMS.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta
+Verificação: 2026-11-26
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,G04,encontrada,['G04'],True,0.039292,"[G04] Como ativar a verificação em duas etapas?
+1. Com uma conta prata ou ouro, abra Segurança da conta no aplicativo gov.br e ative a verificação em duas etapas.
+2. O código é gerado pelo aplicativo gov.br, não por SMS.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta
+Verificação: 2026-11-26
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Preciso de suporte,,G05,"[G05] Onde obter ajuda com a conta?
+1. Abra o portal oficial da conta gov.br.
+2. Entre em Ajuda da conta e selecione a situação que corresponde à sua dificuldade.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,G05,encontrada,['G05'],True,0.039,"[G05] Onde obter ajuda com a conta?
+1. Abra o portal oficial da conta gov.br.
+2. Entre em Ajuda da conta e selecione a situação que corresponde à sua dificuldade.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Qual o numero da CIN?,,C01,"[C01] Qual é o número da CIN?
+1. Consulte a explicação oficial sobre o número único.
+2. Não digite seu CPF neste protótipo.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,C01,encontrada,['C01'],True,0.040459,"[C01] Qual é o número da CIN?
+1. Consulte a explicação oficial sobre o número único.
+2. Não digite seu CPF neste protótipo.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+A CIN é gratis?,,C02,"[C02] A primeira CIN em papel é gratuita?
+1. Confirme que a solicitação é da primeira emissão em papel.
+2. Verifique no órgão emissor as condições de outras vias ou formatos.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,C02,encontrada,['C02'],True,0.349709,"[C02] A primeira CIN em papel é gratuita?
+1. Confirme que a solicitação é da primeira emissão em papel.
+2. Verifique no órgão emissor as condições de outras vias ou formatos.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Onde tirar identidade?,,C03,"[C03] Onde emitir a CIN?
+1. Abra a fonte oficial sobre a CIN.
+2. Procure a indicação de onde emitir no seu estado e confirme o agendamento local.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,C03,encontrada,['C03'],True,0.045166,"[C03] Onde emitir a CIN?
+1. Abra a fonte oficial sobre a CIN.
+2. Procure a indicação de onde emitir no seu estado e confirme o agendamento local.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Levar certidao de casamento,,C04,"[C04] Que certidão levar para emitir a CIN?
+1. Separe a certidão de nascimento ou casamento atualizada.
+2. Confirme os documentos e as condições de atendimento no órgão de identificação do seu estado.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,C04,encontrada,['C04'],True,0.043,"[C04] Que certidão levar para emitir a CIN?
+1. Separe a certidão de nascimento ou casamento atualizada.
+2. Confirme os documentos e as condições de atendimento no órgão de identificação do seu estado.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Existe CIN digital?,,C05,"[C05] A CIN tem versão digital?
+1. Consulte as opções do órgão emissor.
+2. Após a emissão, consulte a versão digital no aplicativo gov.br.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,C05,encontrada,['C05'],True,0.04075,"[C05] A CIN tem versão digital?
+1. Consulte as opções do órgão emissor.
+2. Após a emissão, consulte a versão digital no aplicativo gov.br.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Quero cadastrar uma conta,Conta gov.br,G01,"[G01] Como criar uma conta gov.br?
+1. Abra o portal oficial da conta gov.br.
+2. Siga a orientação de criação de conta no canal oficial.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,G01,encontrada,['G01'],True,0.026166,"[G01] Como criar uma conta gov.br?
+1. Abra o portal oficial da conta gov.br.
+2. Siga a orientação de criação de conta no canal oficial.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+A CIN tem custo em papel?,Identidade CIN,C02,"[C02] A primeira CIN em papel é gratuita?
+1. Confirme que a solicitação é da primeira emissão em papel.
+2. Verifique no órgão emissor as condições de outras vias ou formatos.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",sugestoes,C02,sugestoes,"['C02', 'C05']",True,0.026,"[C02] A primeira CIN em papel é gratuita?
+1. Confirme que a solicitação é da primeira emissão em papel.
+2. Verifique no órgão emissor as condições de outras vias ou formatos.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+Qual a previsão do tempo?,,,sem_resposta,sem_resposta,,sem_resposta,[],True,0.046583,A base não contém resposta suficiente para essa consulta. Consulte o canal oficial.
+,,,invalida,invalida,,invalida,[],True,0.000542,Digite uma consulta não vazia.
+Ajuda,Tema inexistente,,tema_invalido,tema_invalido,,tema_invalido,[],True,0.002458,Tema inexistente.
+Emitir identidade,Conta gov.br,,sem_resposta,sem_resposta,,sem_resposta,[],True,0.022791,A base não contém resposta suficiente para essa consulta. Consulte o canal oficial.
+Quero uma identidade no celular,,C05,"[C05] A CIN tem versão digital?
+1. Consulte as opções do órgão emissor.
+2. Após a emissão, consulte a versão digital no aplicativo gov.br.
+Fonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,,sem_resposta,[],False,0.041667,A base não contém resposta suficiente para essa consulta. Consulte o canal oficial.
+Perdi minha credencial de acesso,,G02,"[G02] Como recuperar a senha da conta?
+1. Acesse o login oficial e escolha Esqueci minha senha.
+2. Siga o método de recuperação oferecido; se não conseguir, consulte o formulário de atendimento indicado na fonte.
+Fonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/
+Verificação: 2026-11-25
+Protótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",encontrada,,sem_resposta,[],False,0.041584,A base não contém resposta suficiente para essa consulta. Consulte o canal oficial.

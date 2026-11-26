@@ -1,0 +1,261 @@
+[
+  {
+    "pergunta": "Como criar conta?",
+    "tema": null,
+    "esperado": "G01",
+    "resposta_esperada": "[G01] Como criar uma conta gov.br?\n1. Abra o portal oficial da conta gov.br.\n2. Siga a orientação de criação de conta no canal oficial.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "G01",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "G01"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.137458,
+    "resposta_exibida": "[G01] Como criar uma conta gov.br?\n1. Abra o portal oficial da conta gov.br.\n2. Siga a orientação de criação de conta no canal oficial.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Esqueci minha senha",
+    "tema": null,
+    "esperado": "G02",
+    "resposta_esperada": "[G02] Como recuperar a senha da conta?\n1. Acesse o login oficial e escolha Esqueci minha senha.\n2. Siga o método de recuperação oferecido; se não conseguir, consulte o formulário de atendimento indicado na fonte.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "G02",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "G02"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.04475,
+    "resposta_exibida": "[G02] Como recuperar a senha da conta?\n1. Acesse o login oficial e escolha Esqueci minha senha.\n2. Siga o método de recuperação oferecido; se não conseguir, consulte o formulário de atendimento indicado na fonte.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Quero conta ouro",
+    "tema": null,
+    "esperado": "G03",
+    "resposta_esperada": "[G03] Onde consultar os níveis da conta?\n1. Abra a página oficial da conta gov.br.\n2. Consulte Níveis da conta e os métodos de validação apresentados.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "G03",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "G03"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.0405,
+    "resposta_exibida": "[G03] Onde consultar os níveis da conta?\n1. Abra a página oficial da conta gov.br.\n2. Consulte Níveis da conta e os métodos de validação apresentados.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Ativar duas etapas",
+    "tema": null,
+    "esperado": "G04",
+    "resposta_esperada": "[G04] Como ativar a verificação em duas etapas?\n1. Com uma conta prata ou ouro, abra Segurança da conta no aplicativo gov.br e ative a verificação em duas etapas.\n2. O código é gerado pelo aplicativo gov.br, não por SMS.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta\nVerificação: 2026-11-26\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "G04",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "G04"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.039292,
+    "resposta_exibida": "[G04] Como ativar a verificação em duas etapas?\n1. Com uma conta prata ou ouro, abra Segurança da conta no aplicativo gov.br e ative a verificação em duas etapas.\n2. O código é gerado pelo aplicativo gov.br, não por SMS.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta\nVerificação: 2026-11-26\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Preciso de suporte",
+    "tema": null,
+    "esperado": "G05",
+    "resposta_esperada": "[G05] Onde obter ajuda com a conta?\n1. Abra o portal oficial da conta gov.br.\n2. Entre em Ajuda da conta e selecione a situação que corresponde à sua dificuldade.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "G05",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "G05"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.039,
+    "resposta_exibida": "[G05] Onde obter ajuda com a conta?\n1. Abra o portal oficial da conta gov.br.\n2. Entre em Ajuda da conta e selecione a situação que corresponde à sua dificuldade.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Qual o numero da CIN?",
+    "tema": null,
+    "esperado": "C01",
+    "resposta_esperada": "[C01] Qual é o número da CIN?\n1. Consulte a explicação oficial sobre o número único.\n2. Não digite seu CPF neste protótipo.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "C01",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "C01"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.040459,
+    "resposta_exibida": "[C01] Qual é o número da CIN?\n1. Consulte a explicação oficial sobre o número único.\n2. Não digite seu CPF neste protótipo.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "A CIN é gratis?",
+    "tema": null,
+    "esperado": "C02",
+    "resposta_esperada": "[C02] A primeira CIN em papel é gratuita?\n1. Confirme que a solicitação é da primeira emissão em papel.\n2. Verifique no órgão emissor as condições de outras vias ou formatos.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "C02",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "C02"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.349709,
+    "resposta_exibida": "[C02] A primeira CIN em papel é gratuita?\n1. Confirme que a solicitação é da primeira emissão em papel.\n2. Verifique no órgão emissor as condições de outras vias ou formatos.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Onde tirar identidade?",
+    "tema": null,
+    "esperado": "C03",
+    "resposta_esperada": "[C03] Onde emitir a CIN?\n1. Abra a fonte oficial sobre a CIN.\n2. Procure a indicação de onde emitir no seu estado e confirme o agendamento local.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "C03",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "C03"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.045166,
+    "resposta_exibida": "[C03] Onde emitir a CIN?\n1. Abra a fonte oficial sobre a CIN.\n2. Procure a indicação de onde emitir no seu estado e confirme o agendamento local.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Levar certidao de casamento",
+    "tema": null,
+    "esperado": "C04",
+    "resposta_esperada": "[C04] Que certidão levar para emitir a CIN?\n1. Separe a certidão de nascimento ou casamento atualizada.\n2. Confirme os documentos e as condições de atendimento no órgão de identificação do seu estado.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "C04",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "C04"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.043,
+    "resposta_exibida": "[C04] Que certidão levar para emitir a CIN?\n1. Separe a certidão de nascimento ou casamento atualizada.\n2. Confirme os documentos e as condições de atendimento no órgão de identificação do seu estado.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Existe CIN digital?",
+    "tema": null,
+    "esperado": "C05",
+    "resposta_esperada": "[C05] A CIN tem versão digital?\n1. Consulte as opções do órgão emissor.\n2. Após a emissão, consulte a versão digital no aplicativo gov.br.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "C05",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "C05"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.04075,
+    "resposta_exibida": "[C05] A CIN tem versão digital?\n1. Consulte as opções do órgão emissor.\n2. Após a emissão, consulte a versão digital no aplicativo gov.br.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Quero cadastrar uma conta",
+    "tema": "Conta gov.br",
+    "esperado": "G01",
+    "resposta_esperada": "[G01] Como criar uma conta gov.br?\n1. Abra o portal oficial da conta gov.br.\n2. Siga a orientação de criação de conta no canal oficial.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": "G01",
+    "status_obtido": "encontrada",
+    "sugestoes": [
+      "G01"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.026166,
+    "resposta_exibida": "[G01] Como criar uma conta gov.br?\n1. Abra o portal oficial da conta gov.br.\n2. Siga a orientação de criação de conta no canal oficial.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "A CIN tem custo em papel?",
+    "tema": "Identidade CIN",
+    "esperado": "C02",
+    "resposta_esperada": "[C02] A primeira CIN em papel é gratuita?\n1. Confirme que a solicitação é da primeira emissão em papel.\n2. Verifique no órgão emissor as condições de outras vias ou formatos.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "sugestoes",
+    "obtido": "C02",
+    "status_obtido": "sugestoes",
+    "sugestoes": [
+      "C02",
+      "C05"
+    ],
+    "acerto": true,
+    "tempo_ms": 0.026,
+    "resposta_exibida": "[C02] A primeira CIN em papel é gratuita?\n1. Confirme que a solicitação é da primeira emissão em papel.\n2. Verifique no órgão emissor as condições de outras vias ou formatos.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Qual a previsão do tempo?",
+    "tema": null,
+    "esperado": null,
+    "resposta_esperada": "sem_resposta",
+    "status_esperado": "sem_resposta",
+    "obtido": null,
+    "status_obtido": "sem_resposta",
+    "sugestoes": [],
+    "acerto": true,
+    "tempo_ms": 0.046583,
+    "resposta_exibida": "A base não contém resposta suficiente para essa consulta. Consulte o canal oficial."
+  },
+  {
+    "pergunta": "",
+    "tema": null,
+    "esperado": null,
+    "resposta_esperada": "invalida",
+    "status_esperado": "invalida",
+    "obtido": null,
+    "status_obtido": "invalida",
+    "sugestoes": [],
+    "acerto": true,
+    "tempo_ms": 0.000542,
+    "resposta_exibida": "Digite uma consulta não vazia."
+  },
+  {
+    "pergunta": "Ajuda",
+    "tema": "Tema inexistente",
+    "esperado": null,
+    "resposta_esperada": "tema_invalido",
+    "status_esperado": "tema_invalido",
+    "obtido": null,
+    "status_obtido": "tema_invalido",
+    "sugestoes": [],
+    "acerto": true,
+    "tempo_ms": 0.002458,
+    "resposta_exibida": "Tema inexistente."
+  },
+  {
+    "pergunta": "Emitir identidade",
+    "tema": "Conta gov.br",
+    "esperado": null,
+    "resposta_esperada": "sem_resposta",
+    "status_esperado": "sem_resposta",
+    "obtido": null,
+    "status_obtido": "sem_resposta",
+    "sugestoes": [],
+    "acerto": true,
+    "tempo_ms": 0.022791,
+    "resposta_exibida": "A base não contém resposta suficiente para essa consulta. Consulte o canal oficial."
+  },
+  {
+    "pergunta": "Quero uma identidade no celular",
+    "tema": null,
+    "esperado": "C05",
+    "resposta_esperada": "[C05] A CIN tem versão digital?\n1. Consulte as opções do órgão emissor.\n2. Após a emissão, consulte a versão digital no aplicativo gov.br.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/cin/perguntas-frequentes-sobre-a-cin/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": null,
+    "status_obtido": "sem_resposta",
+    "sugestoes": [],
+    "acerto": false,
+    "tempo_ms": 0.041667,
+    "resposta_exibida": "A base não contém resposta suficiente para essa consulta. Consulte o canal oficial."
+  },
+  {
+    "pergunta": "Perdi minha credencial de acesso",
+    "tema": null,
+    "esperado": "G02",
+    "resposta_esperada": "[G02] Como recuperar a senha da conta?\n1. Acesse o login oficial e escolha Esqueci minha senha.\n2. Siga o método de recuperação oferecido; se não conseguir, consulte o formulário de atendimento indicado na fonte.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "status_esperado": "encontrada",
+    "obtido": null,
+    "status_obtido": "sem_resposta",
+    "sugestoes": [],
+    "acerto": false,
+    "tempo_ms": 0.041584,
+    "resposta_exibida": "A base não contém resposta suficiente para essa consulta. Consulte o canal oficial."
+  }
+]

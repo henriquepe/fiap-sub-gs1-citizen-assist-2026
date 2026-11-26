@@ -1,0 +1,17 @@
+[
+  {
+    "pergunta": "Esqueci minha senha",
+    "curto": "[G02] Como recuperar a senha da conta?\nNo acesso oficial, escolha a recuperação de senha e siga um dos métodos disponíveis para sua conta.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "passos": "[G02] Como recuperar a senha da conta?\n1. Acesse o login oficial e escolha Esqueci minha senha.\n2. Siga o método de recuperação oferecido; se não conseguir, consulte o formulário de atendimento indicado na fonte.\nFonte: https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-conta-gov.br/recuperar-senha-da-conta-gov.br/recuperar-senha-da-conta-gov.br/\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "A CIN é gratis?",
+    "curto": "[C02] A primeira CIN em papel é gratuita?\nA primeira emissão em papel é gratuita. Outras modalidades e vias devem ser conferidas no órgão emissor.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "passos": "[C02] A primeira CIN em papel é gratuita?\n1. Confirme que a solicitação é da primeira emissão em papel.\n2. Verifique no órgão emissor as condições de outras vias ou formatos.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/identificacao-do-cidadao-e-carteira-de-identidade-nacional/perguntas-frequentes-sobre-a-cin/o-cidadao-tera-que-pagar\nVerificação: 2026-11-25\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  },
+  {
+    "pergunta": "Ativar duas etapas",
+    "curto": "[G04] Como ativar a verificação em duas etapas?\nNo aplicativo gov.br, acesse Segurança da conta. A verificação em duas etapas está disponível para contas prata e ouro.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta\nVerificação: 2026-11-26\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte.",
+    "passos": "[G04] Como ativar a verificação em duas etapas?\n1. Com uma conta prata ou ouro, abra Segurança da conta no aplicativo gov.br e ative a verificação em duas etapas.\n2. O código é gerado pelo aplicativo gov.br, não por SMS.\nFonte: https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta\nVerificação: 2026-11-26\nProtótipo acadêmico, não oficial. Não informe dados pessoais. Confirme procedimentos na fonte."
+  }
+]

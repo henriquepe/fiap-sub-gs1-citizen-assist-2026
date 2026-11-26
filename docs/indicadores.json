@@ -1,0 +1,9 @@
+{
+  "total": 18,
+  "acertos": 16,
+  "taxa_acerto": 0.8888888888888888,
+  "tempo_medio_ms": 0.05710416666666667,
+  "python": "3.14.5",
+  "ambiente": "macOS-27.2-arm64-arm-64bit-Mach-O",
+  "metodo": "Uma execução por pergunta, perf_counter_ns, busca com base já carregada; não inclui I/O, digitação ou rede."
+}
