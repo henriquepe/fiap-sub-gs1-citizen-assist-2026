@@ -9,7 +9,7 @@ Dez orientações verificadas, dois temas, fontes oficiais.
 Objetivo: localizar orientações sem inventar informações.
 Python + JSON; sem API paga e sem modelo generativo.
 
-Demonstração automatizada real • Sem narração
+Demonstração do programa • Execução real
 
 # Base separada do algoritmo
 

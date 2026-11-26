@@ -134,4 +134,4 @@ python3 -m unittest discover -s tests -v
 
 ## Vídeo
 
-[Assistir à demonstração no YouTube](https://youtu.be/baZ_6AuPLIk).
+[Assistir à demonstração no YouTube](https://youtu.be/SPHKqM1487c).
